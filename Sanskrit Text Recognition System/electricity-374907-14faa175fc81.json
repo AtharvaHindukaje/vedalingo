@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "electricity-374907",
+  "private_key_id": "14faa175fc8163e93dc42cc73bf8094216e9bafd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDkyZCrnojrpO8s\nhcZrmpBQ7t+aXbiLnzbr0Bf4QhWgGPKnGLSbnASgoPxnA1EdbCQ2AnyYfYj35byP\nAuyBWGNOq3a4f3DJVEYS531tcIyd/zdFww0PT2k9doaSYST4kIcAEHE090AR1NF2\nB+FkJuj+4zWl9c53xuzbhkCR9VbkFi3wkbR/oCD4rYmCFOEX94IUOd8XsQKhFcp1\nk9gQCCk4kauIU1YVpQCDg7CX+ELmaWmrY0/OnQOiiC9I2gfbMsPQ1+/aBmgjehkX\nE+h9TMtzgav7Oih4VRBSh39a/YKy+QDf7DvnDRlLEIJIk+V0bwxH6u6NcY2637p4\n3ZpfZs2dAgMBAAECggEAcUCMAkBgg9Fp6c6wyYxB+yY7/sR8+XSPcczZSLWh0dX3\nrBqRMORa8A6w0udz7E4fYLL7bVrbBeet3tcyLtcLlaJQCwVe1fKHG42G67lGimGP\nQVPL77O+I0Q8WlKHRBn7Ed+RwofQKeOA6l39Rx/xv1bGtEgI9Aa/Me3zoaziXdXj\nPVS4/lz6VZOhfSdbIVBI8LforEw2Umk/uC8Vi7rDZWgGi+BI9PxYcfvbwCuRRR2k\n07+fGbKYroNBjSPTLiTCbgInf9vqYPmRkDg+JQdGJTcfdgM3s55jBFUpzameziZ3\nRaV7MCxBCJ7F7VZx+gc0bwnDLi/djtQTDGguHCh66wKBgQDz5fpBoXQ4GYys2x4Z\nPXsMcth+c0LyGMiENtZe6SAoR/mdsWT8uV7Oyr8tQ6y87DyZ9QPBJ31Mw9jQUxQv\nsl8OJ6gFo7lZz1TMsqbFXorjsQ8IzwVGMQzzJEw6DF0vu10oNQqgc3xiyHVZszbz\n8MBBIDCriDvtJq1r/W1EyZaYZwKBgQDwI6Vu49p1t0hLGiDZmGcQjImDPEGRy8dA\nHj77CZaaDM4r+gAkE9HF5RDmtbxwHgx9YZReqxZubrHVHFuDSmh9BCnOneJx6WEQ\nxMNCESdeOKOUqe02BzySd/f/b7/3v2Lki/U40KhJOhmZAekUV5LrIMwxUinT/fPN\nSvEsMIu3WwKBgQDEPYelZP344X3R2yAVmOU3t/Q/kggMeSplTyYfCZ5JKthKLGCg\nA5qn8nPuPKRxAfckvQJ/WIG10WLTA/WbBv76iafkmb5Z57tIVHphFdfUqjL5mHCa\n8H6F5++5SRd1f2DOKBdb0HAFn1rkiJEvp8dY30ipy5zEDLm+yRMxJK4aAwKBgFOA\nwbUGrF+EpTHgWw3vLd+WTvcAi/hruNR18AaRNfpJe6PVIhlpfudmmPLwvR7rhAJR\nXStyKLGr8lCdtMC5rg3S1crQIf7kXWlcUl1144+i+Fboo+DGsWxpJSaAsGsw9O1u\nMY5ZGDumZWJMRMVbEm6KkBaScJMT2qRHbAemtd7DAoGACy1K4BbCIeOUUsqU+3NR\nwhvKdMsbORQMaHx+jw1MwduMp9r8ItsW3qMK1oDVBcRkPNEdaooNyrwQ78v/MWQ5\n3cLOHWwLfCiGdY7Z/Vm+6lx1Jstp0hOLp8fmRfJM9zntTjFE5GWjDlFg9bmCNyLY\nY/t5+ptR6kRA5MGOGEIXyAQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pragati@electricity-374907.iam.gserviceaccount.com",
+  "client_id": "102453746000381005265",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pragati%40electricity-374907.iam.gserviceaccount.com"
+}
